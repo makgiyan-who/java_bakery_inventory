@@ -1,5 +1,5 @@
 // ============================================================
-// InputHelper.java
+// InputHelper.
 // Purpose : Handles all user input and validation
 // Author  : Giane
 // ============================================================
